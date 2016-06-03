@@ -1,5 +1,5 @@
 // お題ファイル名
-var filename = "test2.txt";
+var filename = "test0.txt";
 
 //  オープンモード
 var FORREADING      = 1;    // 読み取り専用
